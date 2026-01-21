@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FrameHero Updates</title>
+    <link>https://framehero.dev</link>
+    <description>App updates for FrameHero - App Store Screenshot Studio</description>
+    <language>en</language>
+
+    <!--
+    Add new versions here. Template:
+
+    <item>
+      <title>Version X.Y.Z</title>
+      <sparkle:version>BUILD_NUMBER</sparkle:version>
+      <sparkle:shortVersionString>X.Y.Z</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>DATE_RFC2822</pubDate>
+      <enclosure
+        url="https://github.com/gunnargray/framehero-releases/releases/download/vX.Y.Z/FrameHero-X.Y.Z.dmg"
+        sparkle:edSignature="SIGNATURE_FROM_SIGN_UPDATE"
+        length="FILE_SIZE_BYTES"
+        type="application/octet-stream"/>
+      <sparkle:releaseNotesLink>https://github.com/gunnargray/framehero-releases/releases/tag/vX.Y.Z</sparkle:releaseNotesLink>
+    </item>
+    -->
+
+  </channel>
+</rss>
