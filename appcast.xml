@@ -6,7 +6,9 @@
     <description>App updates for FrameHero - App Store Screenshot Studio</description>
     <language>en</language>
 
-    <!-- TEST VERSION - Remove after testing -->
+    <!--
+    Add new versions here. Example:
+
     <item>
       <title>Version 1.1.0</title>
       <sparkle:version>2</sparkle:version>
@@ -14,19 +16,19 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>Tue, 21 Jan 2026 12:00:00 +0000</pubDate>
       <description><![CDATA[
-        <h2>What's New in 1.1.0</h2>
+        <h2>What's New</h2>
         <ul>
-          <li>Added Sparkle auto-updates</li>
-          <li>Added Polar license key support</li>
-          <li>Various bug fixes and improvements</li>
+          <li>Feature 1</li>
+          <li>Feature 2</li>
         </ul>
       ]]></description>
       <enclosure
         url="https://github.com/gunnargray-dev/framehero-releases/releases/download/v1.1.0/FrameHero-1.1.0.dmg"
-        sparkle:edSignature="FAKE_SIGNATURE_FOR_TESTING"
-        length="50000000"
+        sparkle:edSignature="SIGNATURE_FROM_SIGN_UPDATE"
+        length="FILE_SIZE_BYTES"
         type="application/octet-stream"/>
     </item>
+    -->
 
   </channel>
 </rss>
