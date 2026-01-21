@@ -5,7 +5,7 @@ This repository hosts the Sparkle appcast and release downloads for FrameHero.
 ## Appcast URL
 
 ```
-https://gunnargray.github.io/framehero-releases/appcast.xml
+https://gunnargray-dev.github.io/framehero-releases/appcast.xml
 ```
 
 ## Release Process

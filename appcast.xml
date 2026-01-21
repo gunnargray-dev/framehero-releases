@@ -16,11 +16,11 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <pubDate>DATE_RFC2822</pubDate>
       <enclosure
-        url="https://github.com/gunnargray/framehero-releases/releases/download/vX.Y.Z/FrameHero-X.Y.Z.dmg"
+        url="https://github.com/gunnargray-dev/framehero-releases/releases/download/vX.Y.Z/FrameHero-X.Y.Z.dmg"
         sparkle:edSignature="SIGNATURE_FROM_SIGN_UPDATE"
         length="FILE_SIZE_BYTES"
         type="application/octet-stream"/>
-      <sparkle:releaseNotesLink>https://github.com/gunnargray/framehero-releases/releases/tag/vX.Y.Z</sparkle:releaseNotesLink>
+      <sparkle:releaseNotesLink>https://github.com/gunnargray-dev/framehero-releases/releases/tag/vX.Y.Z</sparkle:releaseNotesLink>
     </item>
     -->
 
