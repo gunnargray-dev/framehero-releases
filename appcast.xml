@@ -30,18 +30,6 @@
         type="application/octet-stream"/>
     </item>
 
-    <item>
-      <title>Version 1.0.1</title>
-      <sparkle:version>2</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 30 Jan 2026 02:26:56 +0000</pubDate>
-      <enclosure
-        url="https://github.com/gunnargray-dev/framehero-releases/releases/download/v1.0.1/FrameHero-1.0.1.dmg"
-        sparkle:edSignature="gbV/wrytdOj4LdvZp/G6efqraxX2V/9xyotIE6cWwti1leiwqZ/PhPHk5fKb7Mzum3GaAv69MFhwa/UhbWf2AQ=="
-        length="35283007"
-        type="application/octet-stream"/>
-    </item>
 
   </channel>
 </rss>
