@@ -11,22 +11,23 @@
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 30 Jan 2026 02:14:15 +0000</pubDate>
+      <pubDate>Sun, 01 Feb 2026 12:28:28 +0000</pubDate>
       <description><![CDATA[
-        <h2>Initial Release</h2>
-        <p>FrameHero - App Store Screenshot Studio</p>
+        <h2>FrameHero 1.0</h2>
+        <p>App Store Screenshot Studio</p>
         <ul>
           <li>Automated locale switching from iOS Simulator</li>
           <li>AI-powered metadata generation</li>
           <li>Professional device frames</li>
           <li>Multi-locale screenshot management</li>
           <li>Direct App Store Connect upload</li>
+          <li>Redesigned home screen with project card grid</li>
         </ul>
       ]]></description>
       <enclosure
         url="https://github.com/gunnargray-dev/framehero-releases/releases/download/v1.0/FrameHero.dmg"
-        sparkle:edSignature="jfFY6ssA5KZO7lguLCH+I9ewImcJskgb7vz2yxFnEZMTNhdPnONkbr2k5xlqJDQOUEKA57BCZmjcNLc1+b1sBw=="
-        length="35282994"
+        sparkle:edSignature="BTosEgKY8Kms2rZMyN14pqpSZvGz9t0mePGpEnbuvhthu4flQYykf7SV9Sq4oPBNjq1zQBEgTXq6wPZnYMcdBA=="
+        length="35583309"
         type="application/octet-stream"/>
     </item>
 
