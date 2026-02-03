@@ -8,26 +8,26 @@
 
     <item>
       <title>Version 1.1</title>
-      <sparkle:version>2</sparkle:version>
+      <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 03 Feb 2026 03:41:47 +0000</pubDate>
+      <pubDate>Tue, 03 Feb 2026 12:20:11 +0000</pubDate>
       <description><![CDATA[
         <h2>FrameHero 1.1</h2>
-        <p>Bug fixes and UI polish</p>
+        <p>Bug fixes, UI polish, and improved translations</p>
         <ul>
+          <li>Improved AI translations with app context for better localization</li>
           <li>Layer copy/paste support in the canvas editor</li>
           <li>Improved capture flow — settings always shown on session start</li>
-          <li>Removed translation length warning noise</li>
+          <li>Status bar override (9:41) now persists after locale changes</li>
           <li>Left-aligned project grid layout</li>
-          <li>Removed Translate All from canvas toolbar</li>
           <li>Various UI refinements</li>
         </ul>
       ]]></description>
       <enclosure
         url="https://github.com/gunnargray-dev/framehero-releases/releases/latest/download/FrameHero.dmg"
-        sparkle:edSignature="fc83l/mnEJfD00IJeE91BstCe2H4zN1f5CI3ppHz/137bJ+Ph4AAKyin8l9dCBoR0QVfmpKQJIlynCe636RmAQ=="
-        length="35837032"
+        sparkle:edSignature="GYdtyikrO90ewqdRqDtbiYWLeu1dE184J5WBQjx8JEQP1512qS8f0wYbEesUoDS95sY3H4IfYjyLOJvyXxd9DQ=="
+        length="35843253"
         type="application/octet-stream"/>
     </item>
 
