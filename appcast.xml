@@ -25,7 +25,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/gunnargray-dev/framehero-releases/releases/download/v1.1/FrameHero.dmg"
+        url="https://github.com/gunnargray-dev/framehero-releases/releases/latest/download/FrameHero.dmg"
         sparkle:edSignature="fc83l/mnEJfD00IJeE91BstCe2H4zN1f5CI3ppHz/137bJ+Ph4AAKyin8l9dCBoR0QVfmpKQJIlynCe636RmAQ=="
         length="35837032"
         type="application/octet-stream"/>
