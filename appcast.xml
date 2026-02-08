@@ -7,6 +7,31 @@
     <language>en</language>
 
     <item>
+      <title>Version 1.2</title>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sun, 08 Feb 2026 21:59:16 +0000</pubDate>
+      <description><![CDATA[
+        <h2>FrameHero 1.2</h2>
+        <p>Project settings, sidebar switcher, and UI polish</p>
+        <ul>
+          <li>Project settings page for per-project configuration</li>
+          <li>Sidebar project switcher with auto-open last project</li>
+          <li>Improved watch folder onboarding with setup tips</li>
+          <li>Polished localizations section UI</li>
+          <li>Container styling for settings and checklist views</li>
+          <li>Various UI refinements and production fixes</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/gunnargray-dev/framehero-releases/releases/latest/download/FrameHero.dmg"
+        sparkle:edSignature="xj8lQsN2X1zx63ydshLDOu7yk2qRep56LcHDPVn78+8wDLKszGKkDTWyr7hQV7s2nAJPySym3VjY1dvuks+LDA=="
+        length="36158474"
+        type="application/octet-stream"/>
+    </item>
+
+    <item>
       <title>Version 1.1</title>
       <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
@@ -25,7 +50,7 @@
         </ul>
       ]]></description>
       <enclosure
-        url="https://github.com/gunnargray-dev/framehero-releases/releases/latest/download/FrameHero.dmg"
+        url="https://github.com/gunnargray-dev/framehero-releases/releases/download/v1.1/FrameHero.dmg"
         sparkle:edSignature="GYdtyikrO90ewqdRqDtbiYWLeu1dE184J5WBQjx8JEQP1512qS8f0wYbEesUoDS95sY3H4IfYjyLOJvyXxd9DQ=="
         length="35843253"
         type="application/octet-stream"/>
