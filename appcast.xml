@@ -81,5 +81,25 @@
         type="application/octet-stream"/>
     </item>
 
+    <item>
+      <title>Version 1.3</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 18 Feb 2026 01:16:27 +0000</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li>App Preview Videos (Beta) — record, edit, and export App Store preview videos</li>
+          <li>In-app update notifications with release notes</li>
+          <li>Caption rendering and timeline sync fixes</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/gunnargray-dev/framehero-releases/releases/latest/download/FrameHero.dmg"
+        sparkle:edSignature="PqN+9xBOQ7flHMa+Hqw4zCkh3OcIOpiqLbnZ6L8wxTvQkxKklPiKtcQEwgwxz3qAForNfyL0HVWZG8hWmiQhDg=="
+        length="48749231"
+        type="application/octet-stream"/>
+    </item>
+
   </channel>
 </rss>
