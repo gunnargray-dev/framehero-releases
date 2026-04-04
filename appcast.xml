@@ -101,5 +101,30 @@
         type="application/octet-stream"/>
     </item>
 
+    <item>
+      <title>Version 1.4</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 04 Apr 2026 01:06:48 +0000</pubDate>
+      <description><![CDATA[
+        <h2>FrameHero 1.4</h2>
+        <ul>
+          <li>FrameHero CLI — headless screenshot capture from the terminal</li>
+          <li>Auto-import CLI captures on app launch</li>
+          <li>Layer lock, hide, and delete controls in layers panel</li>
+          <li>Rich text styling, project color palettes, background templates</li>
+          <li>Localization sync and layout propagation</li>
+          <li>Edge-to-edge panel layout</li>
+          <li>Performance improvements and bug fixes</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/gunnargray-dev/framehero-releases/releases/latest/download/FrameHero.dmg"
+        sparkle:edSignature="QRY+W65yi3fG21s1LzaolCJwH5Gu3m/IzpTGN4xMcjMUFEpzDCKomVGVVJ+MumtnT/NIPqp+TJudT6d+awXWBA=="
+        length="49156447"
+        type="application/octet-stream"/>
+    </item>
+
   </channel>
 </rss>
