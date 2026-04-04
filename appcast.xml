@@ -126,5 +126,27 @@
         type="application/octet-stream"/>
     </item>
 
+    <item>
+      <title>Version 1.4.1</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 04 Apr 2026 12:23:48 +0000</pubDate>
+      <description><![CDATA[
+        <h2>FrameHero 1.4.1</h2>
+        <ul>
+          <li>Fix translated text reverting to English when opening the canvas editor</li>
+          <li>Locale-aware rendering for thumbnails and editor preview</li>
+          <li>Update available pill in sidebar</li>
+          <li>Fix Done button text wrapping on Simulator Sync modal</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/gunnargray-dev/framehero-releases/releases/latest/download/FrameHero.dmg"
+        sparkle:edSignature="Ht8Bya8GqRexBTiRsl0Yacf3AQE+Zs06PDsCosMOG6/dOj1rMCmNbjYZD+6QHSLgC9K0foGlFa1XkYDMYpTbBA=="
+        length="49170409"
+        type="application/octet-stream"/>
+    </item>
+
   </channel>
 </rss>
