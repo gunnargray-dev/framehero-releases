@@ -148,5 +148,27 @@
         type="application/octet-stream"/>
     </item>
 
+    <item>
+      <title>Version 1.5</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 04 Apr 2026 23:39:40 +0000</pubDate>
+      <description><![CDATA[
+        <h2>FrameHero 1.5</h2>
+        <ul>
+          <li>Custom dark theme with near-black surfaces and seamless toolbar</li>
+          <li>Undo/Redo support in the canvas editor (Cmd+Z)</li>
+          <li>Full-height inspector sidebar in video timeline</li>
+          <li>Black titanium device frames for Pro models</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/gunnargray-dev/framehero-releases/releases/latest/download/FrameHero.dmg"
+        sparkle:edSignature="/wyvN08rO+t4SPYZqdj+kbcyB0aFCjkxv4XiEoUb2VzbBySM54NiNSFser4EfWgiqNBvKOYaY3jkJg8DgPLsAg=="
+        length="52136901"
+        type="application/octet-stream"/>
+    </item>
+
   </channel>
 </rss>
